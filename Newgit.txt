@@ -1,6 +1,6 @@
 This is a new git 
 
 good
-hi
+hifi
 bye
 hello
